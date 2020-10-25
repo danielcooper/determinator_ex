@@ -1,0 +1,3 @@
+[submodule "test/standard_cases"]
+	path = test/standard_cases
+	url = https://github.com/deliveroo/determinator-standard-tests
